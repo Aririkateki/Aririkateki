@@ -19,5 +19,5 @@
 <div>
   
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Aririkateki&theme=dark"/>
-  
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aririkateki&layout=compact&theme=dark"/>
 </div>
