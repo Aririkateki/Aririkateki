@@ -16,8 +16,9 @@
 <br/>
 <div> :fire: My Stats :</div>
 <br/>
-<div style={display:"block"}>
-  
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Aririkateki&theme=dark"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aririkateki&layout=compact&theme=dark"/>
+<div>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Aririkateki&theme=dark"/>
+</div>
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aririkateki&layout=compact&theme=dark"/>
 </div>
