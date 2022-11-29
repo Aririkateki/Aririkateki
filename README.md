@@ -1,6 +1,7 @@
 <h3 align="center">👋Hi there I'm a Frontend developer</h3>
 <br/>
-<span> :hammer_and_wrench: Languages and Tools :</span>
+<div> :hammer_and_wrench: Languages and Tools :</div>
+<br/>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
