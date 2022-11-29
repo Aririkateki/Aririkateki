@@ -1,5 +1,6 @@
 <h3 align="center">👋Hi there I'm a Frontend developer</h3>
 <br/>
+<hr style={background:"white";width:"100%"}/>
 <div> :hammer_and_wrench: Languages and Tools :</div>
 <br/>
 <div>
