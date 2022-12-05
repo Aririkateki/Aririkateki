@@ -1,4 +1,4 @@
-<h3 align="center">👋Hi there I'm a Frontend developer</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8BHi+there+;I'm+a+Frontend+developer" alt="Typing SVG" /></a>
 <hr style={`background:white;width:100%;border-radius:50%`}/>
 <div> :hammer_and_wrench: Languages and Tools :</div>
 <br/>
