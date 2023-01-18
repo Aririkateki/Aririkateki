@@ -1,7 +1,7 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=100&color=D204FF&center=true&width=435&lines=%F0%9F%91%8BHi+there+;I'm+a+Frontend+developer" alt="Typing SVG" /></a>
 </div>
-<div style={`width:100%;height:300px`}></div>
+<div style={`width:100%;margin-top:25px`}></div>
 <div> :hammer_and_wrench: Languages and Tools :</div>
 <br/>
 <div>
